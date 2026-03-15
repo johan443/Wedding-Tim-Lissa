@@ -184,7 +184,7 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "Sharon and Johan's Wedding",
+            title: "Lissa and Tim's Wedding",
 
             // Event start date
             start: new Date('Sep 23, 2023 18:00'),
